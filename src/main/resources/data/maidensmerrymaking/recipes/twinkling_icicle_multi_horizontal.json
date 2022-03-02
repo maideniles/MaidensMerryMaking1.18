@@ -1,0 +1,33 @@
+
+
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "LLL"
+		
+		
+    ],
+    
+    "key":
+    {
+       
+		
+		"L":
+		{
+			
+			"item": "maidensmerrymaking:twinkling_lights_multi"
+		}
+		
+		
+		
+		
+    },
+    
+    "result":
+    {
+        "item": "maidensmerrymaking:twinkling_icicle_multi_horizontal",
+        "count": 8
+    }
+}

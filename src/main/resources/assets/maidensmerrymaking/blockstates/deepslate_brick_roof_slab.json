@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "maidensmerrymaking:block/roof_deepslate_brick_slab_bottom" },
+        "type=top": { "model": "maidensmerrymaking:block/roof_deepslate_brick_slab_top" },
+        "type=double": { "model": "maidensmerrymaking:block/roof_deepslate_brick" }
+    }
+}

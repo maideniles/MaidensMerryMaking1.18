@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  
+  "pattern": [
+    "DW"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:birch_door"
+    },
+	"W": {
+      "item": "maidensmerrymaking:christmas_wreath_white_lights"
+    }
+	
+	
+  },
+  "result": {
+    "item": "maidensmerrymaking:birch_wreath_lights_white_door"
+  }
+}

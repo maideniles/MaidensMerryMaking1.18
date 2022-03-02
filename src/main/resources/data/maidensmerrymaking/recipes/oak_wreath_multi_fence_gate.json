@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		
+		
+		
+		
+		{
+			"item": "maidensmerrymaking:christmas_wreath_multi_lights"
+		},
+		
+		{
+			"item": "maidensmerrymaking:oak_picket_fence_gate"
+		}
+		
+		
+		
+		
+	],
+	"result": {
+		"item": "maidensmerrymaking:oak_wreath_multi_fence_gate",
+		"count": 3
+	}
+}

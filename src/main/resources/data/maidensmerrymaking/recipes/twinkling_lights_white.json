@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		
+		
+		{
+			"item": "minecraft:redstone"
+		},
+		
+		{
+			"item": "minecraft:iron_nugget"
+		},
+		
+		{
+			"item": "maidensmerrymaking:white_wires"
+		},
+		
+		{
+			"item": "maidensmerrymaking:white_bulbs"
+		}
+		
+		
+	],
+	"result": {
+		"item": "maidensmerrymaking:twinkling_lights_white"
+	}
+}

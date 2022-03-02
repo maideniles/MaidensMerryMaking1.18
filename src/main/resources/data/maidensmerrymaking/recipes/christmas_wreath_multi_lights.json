@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		
+		
+				
+		{
+			"item": "maidensmerrymaking:mini_lights_multi"
+		},
+		
+		{
+			"item": "maidensmerrymaking:christmas_wreath"
+		}
+		
+		
+	],
+	"result": {
+		"item": "maidensmerrymaking:christmas_wreath_multi_lights"
+	}
+}

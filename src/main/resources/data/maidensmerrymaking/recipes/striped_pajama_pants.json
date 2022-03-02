@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "D D",
+    "DWD"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:green_wool"
+    },
+	"D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "maidensmerrymaking:striped_pajama_pants"
+  }
+}

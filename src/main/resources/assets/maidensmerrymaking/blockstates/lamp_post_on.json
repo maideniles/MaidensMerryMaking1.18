@@ -1,0 +1,11 @@
+{
+    "variants": {
+        
+        "facing=north": {"model": "maidensmerrymaking:block/lamp_post_on", "y": 180},
+        "facing=south": {"model": "maidensmerrymaking:block/lamp_post_on", "y": 0},
+        "facing=west": {"model": "maidensmerrymaking:block/lamp_post_on", "y": 90  },
+        "facing=east": {"model": "maidensmerrymaking:block/lamp_post_on" , "y": 270 }
+        
+        
+   }
+}

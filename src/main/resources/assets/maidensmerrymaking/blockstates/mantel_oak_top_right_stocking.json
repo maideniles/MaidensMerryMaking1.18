@@ -1,0 +1,18 @@
+{
+    "variants": {
+        
+        "facing=north,stocking=true": {"model": "maidensmerrymaking:block/mantel_oak_top_right_stocking", "y": 270},
+        "facing=south,stocking=true": {"model": "maidensmerrymaking:block/mantel_oak_top_right_stocking", "y": 90}, 
+        "facing=west,stocking=true": {"model": "maidensmerrymaking:block/mantel_oak_top_right_stocking", "y": 180  },
+        "facing=east,stocking=true": {"model": "maidensmerrymaking:block/mantel_oak_top_right_stocking" , "y": 0 },
+		
+		"facing=north,stocking=false": {"model": "maidensmerrymaking:block/mantel_oak_top_right", "y": 270},
+        "facing=south,stocking=false": {"model": "maidensmerrymaking:block/mantel_oak_top_right", "y": 90}, 
+        "facing=west,stocking=false": {"model": "maidensmerrymaking:block/mantel_oak_top_right", "y": 180  },
+        "facing=east,stocking=false": {"model": "maidensmerrymaking:block/mantel_oak_top_right" , "y": 0 }
+		
+		
+        
+        
+   }
+}

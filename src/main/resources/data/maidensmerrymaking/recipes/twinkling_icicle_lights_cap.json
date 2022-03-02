@@ -1,0 +1,34 @@
+
+
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " L ",
+		"L L"
+		
+		
+    ],
+    
+    "key":
+    {
+       
+		
+		"L":
+		{
+			
+			"item": "maidensmerrymaking:twinkling_lights_white"
+		}
+		
+		
+		
+		
+    },
+    
+    "result":
+    {
+        "item": "maidensmerrymaking:twinkling_icicle_lights_cap",
+        "count": 8
+    }
+}

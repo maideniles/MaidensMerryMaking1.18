@@ -1,0 +1,33 @@
+
+
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "LLL"
+		
+		
+    ],
+    
+    "key":
+    {
+       
+		
+		"L":
+		{
+			
+			"item": "maidensmerrymaking:classic_lights_multi"
+		}
+		
+		
+		
+		
+    },
+    
+    "result":
+    {
+        "item": "maidensmerrymaking:classic_multi_horizontal",
+        "count": 8
+    }
+}

@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		
+		
+				
+		{
+			"item": "maidensmerrymaking:mini_lights_white"
+		},
+		
+		{
+			"item": "maidensmerrymaking:garland_horizontal"
+		}
+		
+		
+	],
+	"result": {
+		"item": "maidensmerrymaking:garland_horizontal_lights"
+	}
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  
+  "pattern": [
+    "DW"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:acacia_door"
+    },
+	"W": {
+      "item": "maidensmerrymaking:christmas_wreath"
+    }
+	
+	
+  },
+  "result": {
+    "item": "maidensmerrymaking:acacia_wreath_door"
+  }
+}

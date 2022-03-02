@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		
+		
+		
+		
+		{
+			"item": "maidensmerrymaking:garland_horizontal_multi"
+		},
+		
+		{
+			"item": "maidensmerrymaking:acacia_picket_fence"
+		}
+		
+		
+		
+		
+	],
+	"result": {
+		"item": "maidensmerrymaking:acacia_wreath_multi_fence",
+		"count": 3
+	}
+}

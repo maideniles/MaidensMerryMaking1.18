@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "maidensmerrymaking:block/snowy_warped_slab_bottom" },
+        "type=top": { "model": "maidensmerrymaking:block/snowy_warped_slab_top" },
+        "type=double": { "model": "maidensmerrymaking:block/snowy_warped" }
+    }
+}

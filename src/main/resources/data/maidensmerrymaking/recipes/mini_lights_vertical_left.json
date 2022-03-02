@@ -1,0 +1,35 @@
+
+
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "L  ",
+		"L  ",
+		"   "
+		
+		
+    ],
+    
+    "key":
+    {
+       
+		
+		"L":
+		{
+			
+			"item": "maidensmerrymaking:mini_lights_white"
+		}
+		
+		
+		
+		
+    },
+    
+    "result":
+    {
+        "item": "maidensmerrymaking:mini_lights_vertical_left",
+        "count": 4
+    }
+}

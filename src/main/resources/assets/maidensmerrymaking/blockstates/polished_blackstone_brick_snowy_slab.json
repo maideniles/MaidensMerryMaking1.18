@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "maidensmerrymaking:block/snowy_polished_blackstone_brick_slab_bottom" },
+        "type=top": { "model": "maidensmerrymaking:block/snowy_polished_blackstone_brick_slab_top" },
+        "type=double": { "model": "maidensmerrymaking:block/snowy_polished_blackstone_brick" }
+    }
+}

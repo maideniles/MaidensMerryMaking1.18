@@ -1,0 +1,39 @@
+
+
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "L",
+		"B",
+		"S"
+    ],
+    
+    "key":
+    {
+        "L":
+        {
+            "item": "maidensmerrymaking:mint_leaf"
+        },
+		
+		"S":
+        {
+            "item": "minecraft:sugar"
+        },
+		
+		"B":
+		{
+			
+			"item": "minecraft:glass_bottle"
+		}
+		
+		
+    },
+    
+    "result":
+    {
+        "item": "maidensmerrymaking:bottle_of_mint",
+        "count": 1
+    }
+}

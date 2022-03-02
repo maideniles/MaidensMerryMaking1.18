@@ -1,0 +1,19 @@
+{
+    "variants": {
+      
+        "facing=north": [ {"model": "maidensmerrymaking:block/classic_multi_diagonal_right_1"},
+		{"model": "maidensmerrymaking:block/classic_multi_diagonal_right_2"}],
+		
+        "facing=south": [{"model": "maidensmerrymaking:block/classic_multi_diagonal_right_1", "y": 180},
+		{"model": "maidensmerrymaking:block/classic_multi_diagonal_right_2", "y": 180}],
+		
+        "facing=west": [{"model": "maidensmerrymaking:block/classic_multi_diagonal_right_1", "y":  270},
+		{"model": "maidensmerrymaking:block/classic_multi_diagonal_right_2", "y":  270}],
+		
+        "facing=east": [{"model": "maidensmerrymaking:block/classic_multi_diagonal_right_1" , "y": 90},
+		{"model": "maidensmerrymaking:block/classic_multi_diagonal_right_2" , "y": 90}]
+        
+        
+   }
+}
+ 

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "D D",
+    "DWD"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:red_wool"
+    },
+	"D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "maidensmerrymaking:santa_slippers"
+  }
+}

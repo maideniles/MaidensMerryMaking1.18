@@ -1,0 +1,102 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/cube_column",
+	"textures": {
+		"1": "maidensmerrymaking:block/leaves_spruce",
+		"end": "maidensmerrymaking:block/leaves_multi_lights_spruce",
+		"particle": "maidensmerrymaking:block/leaves_spruce"
+	},
+	"elements": [
+		{
+			"from": [0.1, 0.1, 0.1],
+			"to": [15.9, 15.9, 15.9],
+			"shade": false,
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "lights",
+			"from": [0, 0, 0],
+			"to": [0, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 0, 16], "texture": "#end"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#end"},
+				"south": {"uv": [0, 0, 0, 16], "texture": "#end"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#end"},
+				"up": {"uv": [0, 0, 0, 16], "texture": "#end"},
+				"down": {"uv": [0, 0, 0, 16], "texture": "#end"}
+			}
+		},
+		{
+			"name": "lights",
+			"from": [16, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 0, 16], "texture": "#end"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#end"},
+				"south": {"uv": [0, 0, 0, 16], "texture": "#end"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#end"},
+				"up": {"uv": [0, 0, 0, 16], "texture": "#end"},
+				"down": {"uv": [0, 0, 0, 16], "texture": "#end"}
+			}
+		},
+		{
+			"name": "lights_ew",
+			"from": [0, 0, 0],
+			"to": [16, 16, 0],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#end"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#end"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#end"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#end"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#end"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#end"}
+			}
+		},
+		{
+			"name": "lights_ew",
+			"from": [0, 0, 16],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#end"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#end"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#end"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#end"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#end"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#end"}
+			}
+		},
+		{
+			"name": "lights_ud",
+			"from": [0, 0, 0],
+			"to": [16, 0, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 0], "texture": "#end"},
+				"east": {"uv": [0, 0, 16, 0], "texture": "#end"},
+				"south": {"uv": [0, 0, 16, 0], "texture": "#end"},
+				"west": {"uv": [0, 0, 16, 0], "texture": "#end"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#end"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#end"}
+			}
+		},
+		{
+			"name": "lights_ud",
+			"from": [0, 16, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 0], "texture": "#end"},
+				"east": {"uv": [0, 0, 16, 0], "texture": "#end"},
+				"south": {"uv": [0, 0, 16, 0], "texture": "#end"},
+				"west": {"uv": [0, 0, 16, 0], "texture": "#end"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#end"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#end"}
+			}
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+    "variants": {
+       
+        "facing=north": [{"model": "maidensmerrymaking:block/icicle_multi_cap", "y": 180},
+		{"model": "maidensmerrymaking:block/icicle_multi_cap_1", "y": 180}],
+		
+        "facing=south": [{"model": "maidensmerrymaking:block/icicle_multi_cap", "y": 0},
+		{"model": "maidensmerrymaking:block/icicle_multi_cap_1", "y": 0}],
+		
+        "facing=west": [{"model": "maidensmerrymaking:block/icicle_multi_cap", "y": 90  },
+		{"model": "maidensmerrymaking:block/icicle_multi_cap_1", "y": 90  }],
+		
+        "facing=east": [{"model": "maidensmerrymaking:block/icicle_multi_cap" , "y": 270 },
+		{"model": "maidensmerrymaking:block/icicle_multi_cap_1" , "y": 270 }]
+        
+        
+   }
+}
+ 

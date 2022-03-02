@@ -1,0 +1,10 @@
+{
+  "parent": "maidensmerrymaking:block/mantel_top_left",
+  "textures": {
+		"1": "block/spruce_planks",
+		"2": "block/white_wool",
+		"3": "block/polished_andesite",
+		"5": "block/red_wool",
+		"particle": "block/spruce_planks"
+	}
+}

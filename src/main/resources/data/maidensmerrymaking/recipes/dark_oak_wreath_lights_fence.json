@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		
+		
+		
+		
+		{
+			"item": "maidensmerrymaking:garland_horizontal_lights"
+		},
+		
+		{
+			"item": "maidensmerrymaking:dark_oak_picket_fence"
+		}
+		
+		
+		
+		
+	],
+	"result": {
+		"item": "maidensmerrymaking:dark_oak_wreath_lights_fence",
+		"count": 3
+	}
+}

@@ -1,0 +1,15 @@
+{
+    "parent": "maidensmerrymaking:block/mkeka_with_chalice",
+  "display": {
+        "thirdperson": {
+            "rotation": [ 65, -57, 0 ],
+            "translation": [ 2.5, 5, -1.75 ],
+            "scale": [ 0.5, 0.5, 0.5 ]
+        },
+        "gui": {
+            "rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 0, 0 ]
+			
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		
+		
+		
+		
+		{
+			"item": "maidensmerrymaking:garland_horizontal"
+		},
+		
+		{
+			"item": "maidensmerrymaking:spruce_picket_fence"
+		}
+		
+		
+		
+		
+	],
+	"result": {
+		"item": "maidensmerrymaking:spruce_wreath_fence",
+		"count": 3
+	}
+}

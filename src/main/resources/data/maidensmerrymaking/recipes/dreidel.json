@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  
+  "pattern": [
+    " C ",
+	"WCW",
+	" L "
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:white_dye"
+    },
+	"L": {
+      "item": "minecraft:light_blue_dye"
+    },
+	
+	"C": {
+      "item": "minecraft:clay_ball"
+    }
+	
+  },
+  "result": {
+    "item": "maidensmerrymaking:dreidel"
+  }
+}

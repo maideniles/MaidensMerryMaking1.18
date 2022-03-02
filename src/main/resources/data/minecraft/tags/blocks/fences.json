@@ -1,0 +1,43 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:wooden_fences",
+    "maidensmerrymaking:acacia_wreath_fence",
+	"maidensmerrymaking:birch_wreath_fence",
+	"maidensmerrymaking:dark_oak_wreath_fence",
+	"maidensmerrymaking:jungle_wreath_fence",
+	"maidensmerrymaking:oak_wreath_fence",
+	"maidensmerrymaking:spruce_wreath_fence",
+	"maidensmerrymaking:warped_wreath_fence",
+	"maidensmerrymaking:crimson_wreath_fence",
+	
+	"maidensmerrymaking:acacia_picket_fence",
+	"maidensmerrymaking:birch_picket_fence",
+	"maidensmerrymaking:dark_oak_picket_fence",
+	"maidensmerrymaking:jungle_picket_fence",
+	"maidensmerrymaking:oak_picket_fence",
+	"maidensmerrymaking:spruce_picket_fence",
+	"maidensmerrymaking:warped_picket_fence",
+	"maidensmerrymaking:crimson_picket_fence",
+		
+	"maidensmerrymaking:acacia_wreath_lights_fence",
+	"maidensmerrymaking:birch_wreath_lights_fence",
+	"maidensmerrymaking:dark_oak_wreath_lights_fence",
+	"maidensmerrymaking:jungle_wreath_lights_fence",
+	"maidensmerrymaking:oak_wreath_lights_fence",
+	"maidensmerrymaking:spruce_wreath_lights_fence",
+	"maidensmerrymaking:warped_wreath_lights_fence",
+	"maidensmerrymaking:crimson_wreath_lights_fence",
+	
+	"maidensmerrymaking:acacia_wreath_multi_fence",
+	"maidensmerrymaking:birch_wreath_multi_fence",
+	"maidensmerrymaking:dark_oak_wreath_multi_fence",
+	"maidensmerrymaking:jungle_wreath_multi_fence",
+	"maidensmerrymaking:oak_wreath_multi_fence",
+	"maidensmerrymaking:spruce_wreath_multi_fence",
+	"maidensmerrymaking:warped_wreath_multi_fence",
+	"maidensmerrymaking:crimson_wreath_multi_fence"
+	
+	
+  ]
+}

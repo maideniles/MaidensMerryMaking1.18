@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:wheat"
+		},
+		
+		{
+			"item": "minecraft:egg"
+		},
+		
+		{
+			"item": "maidensmerrymaking:ground_ginger"
+		},
+		
+		{
+			"item": "minecraft:sugar"
+		},
+		
+		{
+			"item": "minecraft:milk_bucket"
+		}
+	],
+	"result": {
+		"item": "maidensmerrymaking:gingerbread_dough"
+	}
+}

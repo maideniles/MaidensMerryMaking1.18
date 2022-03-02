@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		
+		
+		
+		
+		{
+			"item": "maidensmerrymaking:roof_tiles"
+		},
+		
+		{
+			"item": "minecraft:polished_blackstone_brick_slab"
+		}
+		
+		
+		
+		
+	],
+	"result": {
+		"item": "maidensmerrymaking:polished_blackstone_brick_roof_slab",
+		"count": 3
+	}
+}

@@ -1,0 +1,17 @@
+{
+"variants": {
+	
+
+	"facing=north,lit=false": {"model": "maidensmerrymaking:block/kinara_unlit"},
+	"facing=south,lit=false": { "model": "maidensmerrymaking:block/kinara_unlit", "y": 180},
+	"facing=east,lit=false": { "model": "maidensmerrymaking:block/kinara_unlit","y": 90},
+	"facing=west,lit=false": { "model": "maidensmerrymaking:block/kinara_unlit", "y": 270},
+	
+	"facing=north,lit=true": {"model": "maidensmerrymaking:block/kinara_lit"},
+	"facing=south,lit=true": { "model": "maidensmerrymaking:block/kinara_lit", "y": 180},
+	"facing=east,lit=true": { "model": "maidensmerrymaking:block/kinara_lit","y": 90},
+	"facing=west,lit=true": { "model": "maidensmerrymaking:block/kinara_lit", "y": 270}
+}
+	
+	
+}

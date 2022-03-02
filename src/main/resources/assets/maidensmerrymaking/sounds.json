@@ -1,0 +1,20 @@
+{
+ 
+  "christmas_disc": {
+    "sounds": [
+      {
+        "name": "maidensmerrymaking:christmas_disc",
+        "stream": true
+      }
+    ]
+  },
+  
+   "christmas_disc_2": {
+    "sounds": [
+      {
+        "name": "maidensmerrymaking:christmas_disc_2",
+        "stream": true
+      }
+    ]
+  }
+}

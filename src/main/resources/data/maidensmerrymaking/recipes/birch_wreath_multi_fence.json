@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		
+		
+		
+		
+		{
+			"item": "maidensmerrymaking:garland_horizontal_multi"
+		},
+		
+		{
+			"item": "maidensmerrymaking:birch_picket_fence"
+		}
+		
+		
+		
+		
+	],
+	"result": {
+		"item": "maidensmerrymaking:birch_wreath_multi_fence",
+		"count": 3
+	}
+}

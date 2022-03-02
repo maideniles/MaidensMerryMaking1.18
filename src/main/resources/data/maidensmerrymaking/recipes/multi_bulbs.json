@@ -1,0 +1,39 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		
+		
+		{
+			"item": "minecraft:glowstone_dust"
+		},
+		
+		{
+			"item": "minecraft:iron_nugget"
+		},
+		
+		{
+			"item": "minecraft:glass_pane"
+		},
+		
+		{
+			"item": "minecraft:blue_dye"
+		},
+		
+		{
+			"item": "minecraft:green_dye"
+		},
+		
+		{
+			"item": "minecraft:yellow_dye"
+		},
+		
+		{
+			"item": "minecraft:red_dye"
+		}
+		
+		
+	],
+	"result": {
+		"item": "maidensmerrymaking:multi_bulbs"
+	}
+}

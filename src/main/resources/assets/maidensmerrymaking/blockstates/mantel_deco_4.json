@@ -1,0 +1,11 @@
+{
+    "variants": {
+        
+        "facing=north": {"model": "maidensmerrymaking:block/mantel_deco_4", "y": 0},
+        "facing=south": {"model": "maidensmerrymaking:block/mantel_deco_4", "y": 180},
+        "facing=west": {"model": "maidensmerrymaking:block/mantel_deco_4", "y": 270  },
+        "facing=east": {"model": "maidensmerrymaking:block/mantel_deco_4" , "y": 90 }
+        
+        
+   }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_bottom",
+    "textures": {
+        "bottom": "block/oak_door_bottom",
+        "top": "maidensmerrymaking:block/oak_wreath_door_top"
+    }
+}

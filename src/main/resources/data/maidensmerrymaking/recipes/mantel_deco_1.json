@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		
+		
+		{
+			"item": "maidensmerrymaking:gingerbread_dough"
+		},
+		
+		{
+			"item": "maidensmerrymaking:candy_cane"
+		},
+		
+		{
+			"item": "maidensmerrymaking:icing"
+		}
+		
+		
+	],
+	"result": {
+		"item": "maidensmerrymaking:mantel_deco_1"
+	}
+}

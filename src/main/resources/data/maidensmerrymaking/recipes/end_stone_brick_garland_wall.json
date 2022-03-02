@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		
+		
+		
+		
+		{
+			"item": "maidensmerrymaking:garland_horizontal"
+		},
+		
+		{
+			"item": "minecraft:end_stone_brick_wall"
+		}
+		
+		
+		
+		
+	],
+	"result": {
+		"item": "maidensmerrymaking:end_stone_brick_garland_wall",
+		"count": 1
+	}
+}

@@ -1,0 +1,13 @@
+{
+"variants": {
+	
+
+	"facing=north": {"model": "maidensmerrymaking:block/menorah_unlit"},
+	"facing=south": { "model": "maidensmerrymaking:block/menorah_unlit", "y": 180},
+	"facing=east": { "model": "maidensmerrymaking:block/menorah_unlit","y": 90},
+	"facing=west": { "model": "maidensmerrymaking:block/menorah_unlit", "y": 270}
+	
+}
+	
+	
+}

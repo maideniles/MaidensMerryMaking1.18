@@ -1,0 +1,11 @@
+{
+    "variants": {
+        
+        "facing=north": {"model": "maidensmerrymaking:block/classic_corner_lights_vertical_left", "y": 0},
+        "facing=south": {"model": "maidensmerrymaking:block/classic_corner_lights_vertical_left", "y": 180},
+        "facing=west": {"model": "maidensmerrymaking:block/classic_corner_lights_vertical_left", "y": 270  },
+        "facing=east": {"model": "maidensmerrymaking:block/classic_corner_lights_vertical_left" , "y": 90 }
+        
+        
+   }
+}

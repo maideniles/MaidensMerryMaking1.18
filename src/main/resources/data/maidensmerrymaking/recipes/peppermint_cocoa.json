@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		
+		
+		{
+			"item": "maidensmerrymaking:hot_cocoa"
+		},
+		
+				
+		{
+			"item": "maidensmerrymaking:peppermint_extract"
+		},
+		
+		{
+			"item": "maidensmerrymaking:candy_cane"
+		}
+		
+		
+	],
+	"result": {
+		"item": "maidensmerrymaking:peppermint_cocoa"
+	}
+}

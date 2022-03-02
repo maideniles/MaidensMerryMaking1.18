@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "maidensmerrymaking:block/roof_jungle_slab_bottom" },
+        "type=top": { "model": "maidensmerrymaking:block/roof_jungle_slab_top" },
+        "type=double": { "model": "maidensmerrymaking:block/roof_jungle" }
+    }
+}

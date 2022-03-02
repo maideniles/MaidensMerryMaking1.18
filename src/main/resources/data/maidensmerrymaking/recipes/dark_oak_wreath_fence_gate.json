@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		
+		
+		
+		
+		{
+			"item": "maidensmerrymaking:christmas_wreath"
+		},
+		
+		{
+			"item": "maidensmerrymaking:dark_oak_picket_fence_gate"
+		}
+		
+		
+		
+		
+	],
+	"result": {
+		"item": "maidensmerrymaking:dark_oak_wreath_fence_gate",
+		"count": 3
+	}
+}

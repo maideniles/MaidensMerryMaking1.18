@@ -1,0 +1,16 @@
+{
+"variants": {
+	
+	"facing=north,burning=false": {"model": "maidensmerrymaking:block/fireplace_logs_burned", "y": 270},
+	"facing=south,burning=false": { "model": "maidensmerrymaking:block/fireplace_logs_burned", "y": 90},
+	"facing=east,burning=false": { "model": "maidensmerrymaking:block/fireplace_logs_burned"},
+	"facing=west,burning=false": { "model": "maidensmerrymaking:block/fireplace_logs_burned", "y": 180},
+	
+	"facing=north,burning=true": {"model": "maidensmerrymaking:block/fireplace_logs_on", "y": 270},
+	"facing=south,burning=true": { "model": "maidensmerrymaking:block/fireplace_logs_on", "y": 90},
+	"facing=east,burning=true": { "model": "maidensmerrymaking:block/fireplace_logs_on"},
+	"facing=west,burning=true": { "model": "maidensmerrymaking:block/fireplace_logs_on", "y": 180}
+		
+	
+	}
+}

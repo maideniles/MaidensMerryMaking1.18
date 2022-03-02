@@ -1,0 +1,13 @@
+{
+"variants": {
+	
+
+	"facing=north": {"model": "maidensmerrymaking:block/mug"},
+	"facing=south": { "model": "maidensmerrymaking:block/mug", "y": 180},
+	"facing=east": { "model": "maidensmerrymaking:block/mug","y": 90},
+	"facing=west": { "model": "maidensmerrymaking:block/mug", "y": 270}
+	
+}
+	
+	
+}

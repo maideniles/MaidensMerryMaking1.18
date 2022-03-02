@@ -1,0 +1,197 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"ambientocclusion": false,
+	"textures": {
+		"5": "block/deepslate_bricks",
+		"3_4": "maidensmerrymaking:block/fence_garland_lights",
+		"6_1": "maidensmerrymaking:block/garland_bow",
+		"particle": "block/deepslate_bricks"
+	},
+	"elements": [
+		{
+			"name": "garland_lights",
+			"from": [3.4, 0, 0],
+			"to": [3.4, 16, 8.1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 16], "texture": "#3_4"},
+				"east": {"uv": [1, 0, 8, 16], "texture": "#3_4"},
+				"south": {"uv": [0, 0, 0, 16], "texture": "#3_4"},
+				"west": {"uv": [7, 0, 15, 16], "texture": "#3_4"},
+				"up": {"uv": [0, 0, 0, 7], "texture": "#3_4"},
+				"down": {"uv": [0, 0, 0, 7], "texture": "#3_4"}
+			}
+		},
+		{
+			"name": "garland_lights2",
+			"from": [12.6, 0, 0],
+			"to": [12.6, 16, 8.1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 16], "texture": "#3_4"},
+				"east": {"uv": [1, 0, 9, 16], "texture": "#3_4"},
+				"south": {"uv": [0, 0, 0, 16], "texture": "#3_4"},
+				"west": {"uv": [9, 0, 1, 16], "texture": "#3_4"},
+				"up": {"uv": [0, 0, 0, 7], "texture": "#3_4"},
+				"down": {"uv": [0, 0, 0, 7], "texture": "#3_4"}
+			}
+		},
+		{
+			"name": "Center post",
+			"from": [4, 0, 4],
+			"to": [12, 16, 12],
+			"faces": {
+				"north": {"uv": [4, 0, 12, 16], "texture": "#5"},
+				"east": {"uv": [4, 0, 12, 16], "texture": "#5"},
+				"south": {"uv": [4, 0, 12, 16], "texture": "#5"},
+				"west": {"uv": [4, 0, 12, 16], "texture": "#5"},
+				"up": {"uv": [4, 4, 12, 12], "texture": "#5", "cullface": "up"},
+				"down": {"uv": [4, 4, 12, 12], "texture": "#5", "cullface": "down"}
+			}
+		},
+		{
+			"name": "garland_lights",
+			"from": [3.4, 0, 8],
+			"to": [3.4, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5, 8, 16]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 16], "texture": "#3_4"},
+				"east": {"uv": [8, 0, 15, 16], "texture": "#3_4"},
+				"south": {"uv": [0, 0, 0, 16], "texture": "#3_4"},
+				"west": {"uv": [15, 0, 7, 16], "texture": "#3_4"},
+				"up": {"uv": [0, 0, 0, 7], "texture": "#3_4"},
+				"down": {"uv": [0, 0, 0, 7], "texture": "#3_4"}
+			}
+		},
+		{
+			"name": "garland_lights2",
+			"from": [12.6, 0, 8],
+			"to": [12.6, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11, 8, 16]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 16], "texture": "#3_4"},
+				"east": {"uv": [9, 0, 1, 16], "texture": "#3_4"},
+				"south": {"uv": [0, 0, 0, 16], "texture": "#3_4"},
+				"west": {"uv": [16, 0, 8, 16], "texture": "#3_4"},
+				"up": {"uv": [0, 0, 0, 7], "texture": "#3_4"},
+				"down": {"uv": [0, 0, 0, 7], "texture": "#3_4"}
+			}
+		},
+		{
+			"from": [5.5, 9, 3.3],
+			"to": [10.5, 15, 3.3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 5]},
+			"faces": {
+				"north": {"uv": [5, 5, 10, 11], "texture": "#6_1"},
+				"east": {"uv": [0, 0, 0, 5], "texture": "#6_1"},
+				"south": {"uv": [0, 0, 5, 5], "texture": "#6_1"},
+				"west": {"uv": [0, 0, 0, 5], "texture": "#6_1"},
+				"up": {"uv": [0, 0, 5, 0], "texture": "#6_1"},
+				"down": {"uv": [0, 0, 5, 0], "texture": "#6_1"}
+			}
+		},
+		{
+			"from": [5.5, 9, 12.7],
+			"to": [10.5, 15, 12.7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 11]},
+			"faces": {
+				"north": {"uv": [5, 5, 10, 11], "texture": "#6_1"},
+				"east": {"uv": [0, 0, 0, 5], "texture": "#6_1"},
+				"south": {"uv": [5, 5, 10, 11], "texture": "#6_1"},
+				"west": {"uv": [0, 0, 0, 5], "texture": "#6_1"},
+				"up": {"uv": [0, 0, 5, 0], "texture": "#6_1"},
+				"down": {"uv": [0, 0, 5, 0], "texture": "#6_1"}
+			}
+		},
+		{
+			"from": [12.7, 9, 5.5],
+			"to": [12.7, 15, 10.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 5], "texture": "#6_1"},
+				"east": {"uv": [5, 5, 10, 11], "texture": "#6_1"},
+				"south": {"uv": [0, 0, 0, 5], "texture": "#6_1"},
+				"west": {"uv": [5, 5, 10, 11], "texture": "#6_1"},
+				"up": {"uv": [0, 0, 5, 0], "rotation": 270, "texture": "#6_1"},
+				"down": {"uv": [0, 0, 5, 0], "rotation": 90, "texture": "#6_1"}
+			}
+		},
+		{
+			"from": [3.3, 9, 5.5],
+			"to": [3.3, 15, 10.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 5], "texture": "#6_1"},
+				"east": {"uv": [5, 5, 10, 11], "texture": "#6_1"},
+				"south": {"uv": [0, 0, 0, 5], "texture": "#6_1"},
+				"west": {"uv": [5, 5, 10, 11], "texture": "#6_1"},
+				"up": {"uv": [0, 0, 5, 0], "rotation": 270, "texture": "#6_1"},
+				"down": {"uv": [0, 0, 5, 0], "rotation": 90, "texture": "#6_1"}
+			}
+		},
+		{
+			"name": "Center post",
+			"from": [4, 0, 4],
+			"to": [12, 16, 12],
+			"faces": {
+				"north": {"uv": [4, 0, 12, 16], "texture": "#5"},
+				"east": {"uv": [4, 0, 12, 16], "texture": "#5"},
+				"south": {"uv": [4, 0, 12, 16], "texture": "#5"},
+				"west": {"uv": [4, 0, 12, 16], "texture": "#5"},
+				"up": {"uv": [4, 4, 12, 12], "texture": "#5"},
+				"down": {"uv": [4, 4, 12, 12], "texture": "#5", "cullface": "down"}
+			}
+		},
+		{
+			"name": "Full wall",
+			"from": [5, 0, 0],
+			"to": [11, 13, 16],
+			"faces": {
+				"north": {"uv": [5, 3, 11, 16], "texture": "#5", "cullface": "north"},
+				"east": {"uv": [0, 3, 16, 16], "texture": "#5"},
+				"south": {"uv": [5, 3, 11, 16], "texture": "#5", "cullface": "south"},
+				"west": {"uv": [0, 3, 16, 16], "texture": "#5"},
+				"up": {"uv": [5, 0, 11, 16], "texture": "#5"},
+				"down": {"uv": [5, 0, 11, 16], "texture": "#5", "cullface": "down"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [30, 135, 0],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "template_wall_side",
+			"origin": [8, 8, 8],
+			"children": []
+		},
+		{
+			"name": "birch_wreath_fence_side",
+			"origin": [8, 8, 8],
+			"children": [0, 1]
+		},
+		{
+			"name": "template_wall_post",
+			"origin": [8, 8, 8],
+			"children": [2, 3, 4]
+		},
+		{
+			"name": "oak_wreath_fence_post",
+			"origin": [8, 8, 8],
+			"children": [5, 6, 7, 8]
+		},
+		{
+			"name": "wall_inventory",
+			"origin": [8, 8, 8],
+			"children": [9, 10]
+		}
+	]
+}

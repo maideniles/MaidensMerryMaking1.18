@@ -1,0 +1,17 @@
+{
+"variants": {
+	
+
+	"facing=north,cup=false": {"model": "maidensmerrymaking:block/mkeka","y": 180},
+	"facing=south,cup=false": { "model": "maidensmerrymaking:block/mkeka", "y": 0},
+	"facing=east,cup=false": { "model": "maidensmerrymaking:block/mkeka","y": 270},
+	"facing=west,cup=false": { "model": "maidensmerrymaking:block/mkeka", "y": 90},
+	
+	"facing=north,cup=true": {"model": "maidensmerrymaking:block/mkeka_with_chalice","y": 180},
+	"facing=south,cup=true": { "model": "maidensmerrymaking:block/mkeka_with_chalice", "y": 0},
+	"facing=east,cup=true": { "model": "maidensmerrymaking:block/mkeka_with_chalice", "y": 270},
+	"facing=west,cup=true": { "model": "maidensmerrymaking:block/mkeka_with_chalice", "y": 90}
+}
+	
+	
+}

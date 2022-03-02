@@ -1,0 +1,45 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		
+		
+		
+		
+		{
+			"item": "maidensmerrymaking:corn"
+		},
+				{
+			"item": "minecraft:sweet_berries"
+		},
+		{
+			"item": "maidensmerrymaking:sweet_potato"
+		},
+		{
+			"item": "minecraft:wheat"
+		},
+		{
+			"item": "minecraft:beetroot"
+		},
+		{
+			"item": "minecraft:carrot"
+		},
+		{
+			"item": "minecraft:potato"
+		},
+		{
+			"item": "minecraft:apple"
+		},
+		{
+			"item": "minecraft:dark_oak_pressure_plate"
+		}
+		
+		
+		
+		
+		
+	],
+	"result": {
+		"item": "maidensmerrymaking:harvest_tray",
+		"count": 1
+	}
+}

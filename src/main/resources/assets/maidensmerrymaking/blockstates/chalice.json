@@ -1,0 +1,13 @@
+{
+"variants": {
+	
+
+	"facing=north": {"model": "maidensmerrymaking:block/chalice", "y": 270},
+	"facing=south": { "model": "maidensmerrymaking:block/chalice", "y": 90},
+	"facing=east": { "model": "maidensmerrymaking:block/chalice"},
+	"facing=west": { "model": "maidensmerrymaking:block/chalice", "y": 180}
+	
+}
+	
+	
+}

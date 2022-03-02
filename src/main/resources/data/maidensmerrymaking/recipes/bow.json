@@ -1,0 +1,33 @@
+
+
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "R R",
+		" R ",
+		"R R"
+		
+    ],
+    
+    "key":
+    {
+       
+		
+		"R":
+		{
+			
+			"item": "minecraft:red_carpet"
+		}
+		
+		
+		
+    },
+    
+    "result":
+    {
+        "item": "maidensmerrymaking:bow",
+        "count": 3
+    }
+}

@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		
+		
+		
+		
+		{
+			"item": "maidensmerrymaking:roof_tiles"
+		},
+		
+		{
+			"item": "minecraft:stone_brick_stairs"
+		}
+		
+		
+		
+		
+	],
+	"result": {
+		"item": "maidensmerrymaking:roof_stone_brick_stairs",
+		"count": 4
+	}
+}

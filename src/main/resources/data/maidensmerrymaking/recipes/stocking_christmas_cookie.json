@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "maidensmerrymaking:icing"
+		},
+		
+		{
+			"item": "minecraft:red_dye"
+		},
+		
+		{
+			"item": "maidensmerrymaking:cookie_dough"
+		}
+	],
+	"result": {
+		"item": "maidensmerrymaking:stocking_christmas_cookie"
+	}
+}

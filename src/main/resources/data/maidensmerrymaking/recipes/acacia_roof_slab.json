@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		
+		
+		
+		
+		{
+			"item": "maidensmerrymaking:roof_tiles"
+		},
+		
+		{
+			"item": "minecraft:acacia_slab"
+		}
+		
+		
+		
+		
+	],
+	"result": {
+		"item": "maidensmerrymaking:acacia_roof_slab",
+		"count": 3
+	}
+}

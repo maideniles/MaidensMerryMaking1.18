@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		
+		
+		{
+			"item": "minecraft:redstone"
+		},
+		
+		{
+			"item": "minecraft:iron_ingot"
+		},
+				
+		{
+			"item": "maidensmerrymaking:green_wires"
+		},
+		
+		{
+			"item": "maidensmerrymaking:multi_bulbs"
+		}
+		
+		
+	],
+	"result": {
+		"item": "maidensmerrymaking:classic_lights_multi"
+	}
+}

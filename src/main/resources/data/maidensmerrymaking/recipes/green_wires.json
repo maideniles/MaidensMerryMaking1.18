@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		
+		
+		{
+			"item": "minecraft:iron_ingot"
+		},
+		
+		
+		
+		{
+			"item": "minecraft:green_dye"
+		}
+			
+			
+		
+	],
+	"result": {
+		"item": "maidensmerrymaking:green_wires"
+	}
+}

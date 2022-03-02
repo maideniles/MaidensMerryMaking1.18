@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		
+		
+		
+		
+		{
+			"item": "maidensmerrymaking:garland_horizontal_multi"
+		},
+		
+		{
+			"item": "minecraft:blackstone_wall"
+		}
+		
+		
+		
+		
+	],
+	"result": {
+		"item": "maidensmerrymaking:blackstone_garland_multi_wall",
+		"count": 1
+	}
+}

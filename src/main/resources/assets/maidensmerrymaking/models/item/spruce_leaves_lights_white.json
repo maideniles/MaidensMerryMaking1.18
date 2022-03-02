@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "maidensmerrymaking:block/leaves_white_lights_spruce",
+        "side": "maidensmerrymaking:block/leaves_white_lights_spruce"
+    }
+}

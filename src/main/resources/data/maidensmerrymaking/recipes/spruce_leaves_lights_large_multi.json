@@ -1,0 +1,40 @@
+
+
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "LC"
+		
+		
+		
+    ],
+    
+    "key":
+    {
+       
+		
+		"L":
+		{
+			
+			"item": "minecraft:spruce_leaves"
+		},
+		
+		"C":
+		{
+			
+			"item": "maidensmerrymaking:classic_lights_multi"
+		}
+		
+		
+		
+		
+    },
+    
+    "result":
+    {
+        "item": "maidensmerrymaking:spruce_leaves_lights_large_multi",
+        "count": 4
+    }
+}

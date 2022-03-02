@@ -1,0 +1,11 @@
+{
+    "variants": {
+        
+        "facing=north": {"model": "maidensmerrymaking:block/mini_corner_lights_vertical_right", "y": 0},
+        "facing=south": {"model": "maidensmerrymaking:block/mini_corner_lights_vertical_right", "y": 180},
+        "facing=west": {"model": "maidensmerrymaking:block/mini_corner_lights_vertical_right", "y": 270  },
+        "facing=east": {"model": "maidensmerrymaking:block/mini_corner_lights_vertical_right" , "y": 90 }
+        
+        
+   }
+}

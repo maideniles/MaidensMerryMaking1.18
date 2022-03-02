@@ -1,0 +1,11 @@
+{
+    "variants": {
+        
+        "facing=north": {"model": "maidensmerrymaking:block/lamp_pole_bow", "y": 0},
+        "facing=south": {"model": "maidensmerrymaking:block/lamp_pole_bow", "y": 180},
+        "facing=west": {"model": "maidensmerrymaking:block/lamp_pole_bow", "y": 270},
+        "facing=east": {"model": "maidensmerrymaking:block/lamp_pole_bow" , "y": 90}
+        
+        
+   }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  
+  "pattern": [
+    "DW"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:dark_oak_door"
+    },
+	"W": {
+      "item": "maidensmerrymaking:christmas_wreath"
+    }
+	
+	
+  },
+  "result": {
+    "item": "maidensmerrymaking:dark_oak_wreath_door"
+  }
+}

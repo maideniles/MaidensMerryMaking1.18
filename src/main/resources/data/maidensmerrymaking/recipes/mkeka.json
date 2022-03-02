@@ -1,0 +1,32 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		
+		
+		
+		
+		{
+			"item": "minecraft:yellow_carpet"
+		},
+		
+		{
+			"item": "minecraft:black_carpet"
+		},
+		
+		{
+			"item": "minecraft:green_carpet"
+		},
+		
+		{
+			"item": "minecraft:red_carpet"
+		}
+		
+		
+		
+		
+	],
+	"result": {
+		"item": "maidensmerrymaking:mkeka",
+		"count": 1
+	}
+}

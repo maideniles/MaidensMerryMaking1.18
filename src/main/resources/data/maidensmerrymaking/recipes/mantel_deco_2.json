@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_fence",
+  "pattern": [
+    
+    "TIT",
+	"PIO"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:poppy"
+    },
+	
+	 "O": {
+      "item": "minecraft:oxeye_daisy"
+    },
+	
+	 "T": {
+      "item": "minecraft:torch"
+    },
+	
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "maidensmerrymaking:mantel_deco_2",
+    "count": 1
+  }
+}

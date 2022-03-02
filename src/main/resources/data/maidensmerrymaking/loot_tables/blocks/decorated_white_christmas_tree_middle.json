@@ -1,0 +1,51 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "maidensmerrymaking:christmas_tree_stand"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ]
+    },
+	
+	    
+    {
+  "conditions": [
+    {"condition": "minecraft:survives_explosion"}
+    
+  ],
+  "rolls":1,
+  "entries":[
+    {"type":"item","name":"maidensmerrymaking:christmas_tree"}
+  ]
+},
+
+{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "maidensmerrymaking:ornaments_white"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ]
+    }
+
+
+
+
+
+  ]
+}

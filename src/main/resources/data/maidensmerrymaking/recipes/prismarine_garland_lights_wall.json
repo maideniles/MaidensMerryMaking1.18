@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		
+		
+		
+		
+		{
+			"item": "maidensmerrymaking:garland_horizontal_lights"
+		},
+		
+		{
+			"item": "minecraft:prismarine_wall"
+		}
+		
+		
+		
+		
+	],
+	"result": {
+		"item": "maidensmerrymaking:prismarine_garland_lights_wall",
+		"count": 1
+	}
+}

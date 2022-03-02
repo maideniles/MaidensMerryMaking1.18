@@ -1,0 +1,11 @@
+{
+    "variants": {
+        
+        "facing=north": {"model": "maidensmerrymaking:block/mantel_dark_oak_normal", "y": 0},
+        "facing=south": {"model": "maidensmerrymaking:block/mantel_dark_oak_normal", "y": 180},
+        "facing=west": {"model": "maidensmerrymaking:block/mantel_dark_oak_normal", "y": 270  },
+        "facing=east": {"model": "maidensmerrymaking:block/mantel_dark_oak_normal" , "y": 90 }
+        
+        
+   }
+}

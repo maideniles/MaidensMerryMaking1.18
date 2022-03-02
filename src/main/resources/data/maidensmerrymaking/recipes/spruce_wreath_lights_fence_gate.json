@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		
+		
+		
+		
+		{
+			"item": "maidensmerrymaking:christmas_wreath_white_lights"
+		},
+		
+		{
+			"item": "maidensmerrymaking:spruce_picket_fence_gate"
+		}
+		
+		
+		
+		
+	],
+	"result": {
+		"item": "maidensmerrymaking:spruce_wreath_lights_fence_gate",
+		"count": 3
+	}
+}

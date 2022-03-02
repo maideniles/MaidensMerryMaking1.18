@@ -1,0 +1,13 @@
+{
+"variants": {
+	
+
+	"facing=north": {"model": "maidensmerrymaking:block/gelt"},
+	"facing=south": { "model": "maidensmerrymaking:block/gelt", "y": 180},
+	"facing=east": { "model": "maidensmerrymaking:block/gelt","y": 90},
+	"facing=west": { "model": "maidensmerrymaking:block/gelt", "y": 270}
+	
+}
+	
+	
+}

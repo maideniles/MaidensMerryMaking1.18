@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		
+		
+		{
+			"item": "minecraft:sugar"
+		},
+		
+		{
+			"item": "maidensmerrymaking:peppermint_extract"
+		},
+		
+		{
+			"item": "minecraft:white_dye"
+		},
+		
+		{
+			"item": "minecraft:red_dye"
+		}
+		
+		
+	],
+	"result": {
+		"item": "maidensmerrymaking:candy_cane"
+	}
+}

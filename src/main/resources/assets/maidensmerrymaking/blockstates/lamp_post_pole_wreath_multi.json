@@ -1,0 +1,11 @@
+{
+    "variants": {
+        
+        "facing=north": {"model": "maidensmerrymaking:block/lamp_pole_wreath_multi", "y": 0},
+        "facing=south": {"model": "maidensmerrymaking:block/lamp_pole_wreath_multi", "y": 180},
+        "facing=west": {"model": "maidensmerrymaking:block/lamp_pole_wreath_multi", "y": 270},
+        "facing=east": {"model": "maidensmerrymaking:block/lamp_pole_wreath_multi" , "y": 90}
+        
+        
+   }
+}

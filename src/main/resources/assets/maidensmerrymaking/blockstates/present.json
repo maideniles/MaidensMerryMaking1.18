@@ -1,0 +1,22 @@
+{
+    "variants": {
+       
+        "": [
+		{"model": "maidensmerrymaking:block/present_1"},
+		{"model": "maidensmerrymaking:block/present_2"},
+		{"model": "maidensmerrymaking:block/present_3"},
+		{"model": "maidensmerrymaking:block/present_4"},
+		{"model": "maidensmerrymaking:block/present_5"},
+		{"model": "maidensmerrymaking:block/present_6"},
+		{"model": "maidensmerrymaking:block/present_7"},
+		{"model": "maidensmerrymaking:block/present_8"},
+		{"model": "maidensmerrymaking:block/present_10"},
+		{"model": "maidensmerrymaking:block/present_11"},
+		{"model": "maidensmerrymaking:block/present_12"}
+		
+		]
+        
+        
+   }
+}
+ 

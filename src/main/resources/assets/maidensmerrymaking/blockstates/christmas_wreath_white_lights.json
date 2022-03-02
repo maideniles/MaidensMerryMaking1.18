@@ -1,0 +1,11 @@
+{
+    "variants": {
+        
+        "facing=north": {"model": "maidensmerrymaking:block/wreath_white_lights", "y": 180},
+        "facing=south": {"model": "maidensmerrymaking:block/wreath_white_lights", "y": 0},
+        "facing=west": {"model": "maidensmerrymaking:block/wreath_white_lights", "y": 90  },
+        "facing=east": {"model": "maidensmerrymaking:block/wreath_white_lights" , "y": 270 }
+        
+        
+   }
+}

@@ -1,0 +1,33 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		
+		
+		
+		{
+			"item": "maidensmerrymaking:tree_christmas_cookie"
+		},
+		
+		{
+			"item": "maidensmerrymaking:stocking_christmas_cookie"
+		},
+		
+		{
+			"item": "maidensmerrymaking:mitten_christmas_cookie"
+		},
+		
+		{
+			"item": "maidensmerrymaking:gingerbread_cookie"
+		},
+		
+		{
+			"item": "minecraft:dark_oak_pressure_plate"
+		}
+		
+		],
+		
+	"result": {
+		"item": "maidensmerrymaking:cookie_tray",
+		"count": 1
+	}
+}

@@ -1,0 +1,39 @@
+
+
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "LLL",
+		"L L",
+		"LBL"
+		
+    ],
+    
+    "key":
+    {
+       
+		
+		"L":
+		{
+			
+			"item": "minecraft:spruce_leaves"
+		},
+		
+		"B":
+		{
+			
+			"item": "maidensmerrymaking:bow"
+		}
+		
+		
+		
+    },
+    
+    "result":
+    {
+        "item": "maidensmerrymaking:christmas_wreath",
+        "count": 3
+    }
+}

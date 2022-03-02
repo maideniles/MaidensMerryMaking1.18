@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		
+		
+		
+		
+		{
+			"item": "maidensmerrymaking:garland_horizontal_lights"
+		},
+		
+		{
+			"item": "minecraft:red_nether_brick_wall"
+		}
+		
+		
+		
+		
+	],
+	"result": {
+		"item": "maidensmerrymaking:red_nether_brick_garland_lights_wall",
+		"count": 1
+	}
+}

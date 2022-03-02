@@ -1,0 +1,9 @@
+{
+    "parent": "maidensmerrymaking:block/wreath_door",
+    "textures": {
+       "1": "block/spruce_door_top",
+        "2": "maidensmerrymaking:block/wreath_white",
+		"particle": "maidensmerrymaking:block/wreath_white"
+		
+    }
+}

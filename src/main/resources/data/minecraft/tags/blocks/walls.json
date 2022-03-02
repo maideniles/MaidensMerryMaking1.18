@@ -1,0 +1,101 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:cobblestone_wall",
+    "minecraft:mossy_cobblestone_wall",
+    "minecraft:brick_wall",
+    "minecraft:prismarine_wall",
+    "minecraft:red_sandstone_wall",
+    "minecraft:mossy_stone_brick_wall",
+    "minecraft:granite_wall",
+    "minecraft:stone_brick_wall",
+    "minecraft:nether_brick_wall",
+    "minecraft:andesite_wall",
+    "minecraft:red_nether_brick_wall",
+    "minecraft:sandstone_wall",
+    "minecraft:end_stone_brick_wall",
+    "minecraft:diorite_wall",
+    "minecraft:blackstone_wall",
+    "minecraft:polished_blackstone_brick_wall",
+    "minecraft:polished_blackstone_wall",
+    "minecraft:cobbled_deepslate_wall",
+    "minecraft:polished_deepslate_wall",
+    "minecraft:deepslate_tile_wall",
+    "minecraft:deepslate_brick_wall",
+	
+    "maidensmerrymaking:brick_garland_wall",
+    "maidensmerrymaking:prismarine_garland_wall",
+    "maidensmerrymaking:red_sandstone_garland_wall",
+    "maidensmerrymaking:mossy_cobblestone_garland_wall",
+    "maidensmerrymaking:granite_garland_wall",
+    "maidensmerrymaking:stone_brick_garland_wall",
+    "maidensmerrymaking:nether_brick_garland_wall",
+    "maidensmerrymaking:andesite_garland_wall",
+    "maidensmerrymaking:red_nether_brick_garland_wall",
+    "maidensmerrymaking:sandstone_garland_wall",
+    "maidensmerrymaking:end_stone_brick_garland_wall",
+    "maidensmerrymaking:diorite_garland_wall",
+	 "maidensmerrymaking:cobblestone_garland_wall",
+	
+	"maidensmerrymaking:cobblestone_garland_lights_wall",
+    "maidensmerrymaking:brick_garland_lights_wall",
+    "maidensmerrymaking:prismarine_garland_lights_wall",
+    "maidensmerrymaking:red_sandstone_garland_lights_wall",
+    "maidensmerrymaking:mossy_cobblestone_garland_lights_wall",
+    "maidensmerrymaking:granite_garland_lights_wall",
+    "maidensmerrymaking:stone_brick_garland_lights_wall",
+    "maidensmerrymaking:nether_brick_garland_lights_wall",
+    "maidensmerrymaking:andesite_garland_lights_wall",
+    "maidensmerrymaking:red_nether_brick_garland_lights_wall",
+    "maidensmerrymaking:sandstone_garland_lights_wall",
+    "maidensmerrymaking:end_stone_brick_garland_lights_wall",
+    "maidensmerrymaking:diorite_garland_lights_wall",
+	
+	"maidensmerrymaking:cobblestone_garland_multi_wall",
+    "maidensmerrymaking:brick_garland_multi_wall",
+    "maidensmerrymaking:prismarine_garland_multi_wall",
+    "maidensmerrymaking:red_sandstone_garland_multi_wall",
+    "maidensmerrymaking:mossy_cobblestone_garland_multi_wall",
+    "maidensmerrymaking:granite_garland_multi_wall",
+    "maidensmerrymaking:stone_brick_garland_multi_wall",
+    "maidensmerrymaking:nether_brick_garland_multi_wall",
+    "maidensmerrymaking:andesite_garland_multi_wall",
+    "maidensmerrymaking:red_nether_brick_garland_multi_wall",
+    "maidensmerrymaking:sandstone_garland_multi_wall",
+    "maidensmerrymaking:end_stone_brick_garland_multi_wall",
+    "maidensmerrymaking:diorite_garland_multi_wall",
+	
+	"maidensmerrymaking:blackstone_garland_wall",
+	"maidensmerrymaking:blackstone_garland_lights_wall",
+	"maidensmerrymaking:blackstone_garland_multi_wall",
+	 "maidensmerrymaking:cobblestone_garland_wall",
+	 
+	 "maidensmerrymaking:polished_blackstone_garland_wall",
+	"maidensmerrymaking:polished_blackstone_garland_lights_wall",
+	"maidensmerrymaking:polished_blackstone_garland_multi_wall",
+	
+	"maidensmerrymaking:polished_blackstone_brick_garland_wall",
+	"maidensmerrymaking:polished_blackstone_brick_garland_lights_wall",
+	"maidensmerrymaking:polished_blackstone_brick_garland_multi_wall",
+	
+	"maidensmerrymaking:cobbled_deepslate_garland_wall",
+	"maidensmerrymaking:cobbled_deepslate_garland_lights_wall",
+	"maidensmerrymaking:cobbled_deepslate_garland_multi_wall",
+	
+	"maidensmerrymaking:polished_deepslate_garland_wall",
+	"maidensmerrymaking:polished_deepslate_garland_lights_wall",
+	"maidensmerrymaking:polished_deepslate_garland_multi_wall",
+	
+	"maidensmerrymaking:deepslate_brick_garland_wall",
+	"maidensmerrymaking:deepslate_brick_garland_lights_wall",
+	"maidensmerrymaking:deepslate_brick_garland_multi_wall",
+	
+	"maidensmerrymaking:deepslate_tile_garland_wall",
+	"maidensmerrymaking:deepslate_tile_garland_lights_wall",
+	"maidensmerrymaking:deepslate_tile_garland_multi_wall"
+	
+	
+	
+	
+  ]
+}

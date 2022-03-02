@@ -1,0 +1,52 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		
+		
+		
+		
+		{
+			"item": "minecraft:clay_ball"
+		},
+		
+		{
+			"item": "minecraft:red_dye"
+		},
+		
+		{
+			"item": "minecraft:orange_dye"
+		},
+		
+		{
+			"item": "minecraft:yellow_dye"
+		},
+		
+		{
+			"item": "minecraft:green_dye"
+		},
+		
+		{
+			"item": "minecraft:cyan_dye"
+		},
+		
+		{
+			"item": "minecraft:blue_dye"
+		},
+		
+		{
+			"item": "minecraft:magenta_dye"
+		},
+		
+		{
+			"item": "minecraft:iron_nugget"
+		}
+		
+		
+		
+		
+	],
+	"result": {
+		"item": "maidensmerrymaking:ornaments",
+		"count": 8
+	}
+}

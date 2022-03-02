@@ -1,0 +1,13 @@
+{
+"variants": {
+	
+
+	"facing=north": {"model": "maidensmerrymaking:block/dreidel"},
+	"facing=south": { "model": "maidensmerrymaking:block/dreidel", "y": 180},
+	"facing=east": { "model": "maidensmerrymaking:block/dreidel","y": 90},
+	"facing=west": { "model": "maidensmerrymaking:block/dreidel", "y": 270}
+	
+}
+	
+	
+}

@@ -1,0 +1,14 @@
+
+
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "maidensmerrymaking:ginger_root"
+        }
+    ],
+    "result": {
+        "item": "maidensmerrymaking:ground_ginger",
+        "count": 8
+    }
+}

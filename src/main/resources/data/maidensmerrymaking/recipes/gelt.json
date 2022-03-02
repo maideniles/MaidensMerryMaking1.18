@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  
+  "pattern": [
+    "GC"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_nugget"
+    },
+	"C": {
+      "item": "minecraft:cocoa_beans"
+    }
+	
+	
+  },
+  "result": {
+    "item": "maidensmerrymaking:gelt"
+  }
+}

@@ -1,0 +1,84 @@
+{
+    "variants": {
+        "facing=north,type=default": {
+            "model": "maidensmerrymaking:block/garland_horizontal",
+            "y": 0
+        },
+        "facing=north,type=left_corner": {
+            "model": "maidensmerrymaking:block/garland_corner_left",
+            "y": 0
+        },
+        "facing=north,type=right_corner": {
+            "model": "maidensmerrymaking:block/garland_corner_right",
+            "y": 0
+        },
+        "facing=north,type=left_corner_inverted": {
+            "model": "maidensmerrymaking:block/garland_corner_left_inverted",
+            "y": 0
+        },
+        "facing=north,type=right_corner_inverted": {
+            "model": "maidensmerrymaking:block/garland_corner_right_inverted",
+            "y": 0
+        },
+        "facing=east,type=default": {
+            "model": "maidensmerrymaking:block/garland_horizontal",
+            "y": 90
+        },
+        "facing=east,type=left_corner": {
+            "model": "maidensmerrymaking:block/garland_corner_left",
+            "y": 90
+        },
+        "facing=east,type=right_corner": {
+            "model": "maidensmerrymaking:block/garland_corner_right",
+            "y": 90
+        },
+        "facing=east,type=left_corner_inverted": {
+            "model": "maidensmerrymaking:block/garland_corner_left_inverted",
+            "y": 90
+        },
+        "facing=east,type=right_corner_inverted": {
+            "model": "maidensmerrymaking:block/garland_corner_right_inverted",
+            "y": 90
+        },
+        "facing=south,type=default": {
+            "model": "maidensmerrymaking:block/garland_horizontal",
+            "y": 180
+        },
+        "facing=south,type=left_corner": {
+            "model": "maidensmerrymaking:block/garland_corner_left",
+            "y": 180
+        },
+        "facing=south,type=right_corner": {
+            "model": "maidensmerrymaking:block/garland_corner_right",
+            "y": 180
+        },
+        "facing=south,type=left_corner_inverted": {
+            "model": "maidensmerrymaking:block/garland_corner_left_inverted",
+            "y": 180
+        },
+        "facing=south,type=right_corner_inverted": {
+            "model": "maidensmerrymaking:block/garland_corner_right_inverted",
+            "y": 180
+        },
+        "facing=west,type=default": {
+            "model": "maidensmerrymaking:block/garland_horizontal",
+            "y": 270
+        },
+        "facing=west,type=left_corner": {
+            "model": "maidensmerrymaking:block/garland_corner_left",
+            "y": 270
+        },
+        "facing=west,type=right_corner": {
+            "model": "maidensmerrymaking:block/garland_corner_right",
+            "y": 270
+        },
+        "facing=west,type=left_corner_inverted": {
+            "model": "maidensmerrymaking:block/garland_corner_left_inverted",
+            "y": 270
+        },
+        "facing=west,type=right_corner_inverted": {
+            "model": "maidensmerrymaking:block/garland_corner_right_inverted",
+            "y": 270
+        }
+    }
+}

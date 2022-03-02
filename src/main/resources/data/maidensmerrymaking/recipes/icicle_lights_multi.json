@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		
+		
+		{
+			"item": "minecraft:glowstone_dust"
+		},
+		
+		{
+			"item": "minecraft:iron_ingot"
+		},
+		
+		{
+			"item": "maidensmerrymaking:white_wires"
+		},
+		
+		{
+			"item": "maidensmerrymaking:multi_bulbs"
+		}
+		
+		
+	],
+	"result": {
+		"item": "maidensmerrymaking:icicle_lights_multi"
+	}
+}

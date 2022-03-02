@@ -1,0 +1,38 @@
+
+
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " WW",
+		" RR",
+		"RRR"
+		
+    ],
+    
+    "key":
+    {
+       
+		
+		"R":
+		{
+			
+			"item": "minecraft:red_carpet"
+		},
+		
+		"W":
+		{
+			
+			"item": "minecraft:white_carpet"
+		}
+		
+		
+    },
+    
+    "result":
+    {
+        "item": "maidensmerrymaking:stocking",
+        "count": 3
+    }
+}

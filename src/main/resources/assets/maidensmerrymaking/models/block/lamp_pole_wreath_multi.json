@@ -1,0 +1,75 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "block/hopper_outside",
+		"3": "maidensmerrymaking:block/wreath_multi",
+		"particle": "block/hopper_outside"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 7],
+			"to": [9, 16, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 24, 8]},
+			"faces": {
+				"north": {"uv": [4, 0, 6, 16], "texture": "#1"},
+				"east": {"uv": [4, 0, 6, 16], "texture": "#1"},
+				"south": {"uv": [4, 0, 6, 16], "texture": "#1"},
+				"west": {"uv": [4, 0, 6, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#1"},
+				"down": {"uv": [0, 0, 2, 2], "texture": "#1"}
+			}
+		},
+		{
+			"name": "wreath1",
+			"from": [0, 1, 9.1],
+			"to": [16, 17, 9.1],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 21, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 0, 12], "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 0, 12], "texture": "#3"},
+				"up": {"uv": [0, 0, 12, 0], "texture": "#3"},
+				"down": {"uv": [0, 0, 12, 0], "texture": "#3"}
+			}
+		},
+		{
+			"name": "wreath2",
+			"from": [0, 1, 12.1],
+			"to": [16, 17, 12.1],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 21, 2]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 0, 12], "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 0, 12], "texture": "#3"},
+				"up": {"uv": [0, 0, 12, 0], "texture": "#3"},
+				"down": {"uv": [0, 0, 12, 0], "texture": "#3"}
+			}
+		},
+		{
+			"from": [2, 3.1, 9.2],
+			"to": [14, 15.1, 12.1],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 17.5]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 0], "texture": "#3"},
+				"east": {"uv": [2, 2, 4.9, 14], "texture": "#3"},
+				"south": {"uv": [0, 0, 0, 0], "texture": "#3"},
+				"west": {"uv": [2, 2, 4.9, 14], "texture": "#3"},
+				"up": {"uv": [2, 2, 14, 4.9], "texture": "#3"},
+				"down": {"uv": [2, 12, 14, 14.9], "texture": "#3"}
+			}
+		}
+	],
+	"groups": [0,
+		{
+			"name": "group",
+			"shade": false,
+			"origin": [8, 8, 8],
+			"children": [1, 2, 3]
+		}
+	]
+}

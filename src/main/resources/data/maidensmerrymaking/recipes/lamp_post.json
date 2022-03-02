@@ -1,0 +1,33 @@
+
+
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "G G",
+		" G ",
+		"G G"
+		
+    ],
+    
+    "key":
+    {
+       
+		
+		"G":
+		{
+			
+			"item": "minecraft:iron_ingot"
+		}
+		
+		
+		
+    },
+    
+    "result":
+    {
+        "item": "maidensmerrymaking:lamp_post",
+        "count": 1
+    }
+}

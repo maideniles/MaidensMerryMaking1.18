@@ -1,0 +1,48 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"22": "maidensmerrymaking:item/gift_bow_green",
+		"24": "maidensmerrymaking:block/present_17",
+		"particle": "maidensmerrymaking:block/present_13"
+	},
+	"elements": [
+		{
+			"from": [3, 0, 4],
+			"to": [13, 4, 12],
+			"faces": {
+				"north": {"uv": [13, 12, 3, 16], "texture": "#24"},
+				"east": {"uv": [5, 12, 13, 16], "texture": "#24"},
+				"south": {"uv": [3, 12, 13, 16], "texture": "#24"},
+				"west": {"uv": [5, 12, 13, 16], "texture": "#24"},
+				"up": {"uv": [3, 0, 13, 8], "texture": "#24"},
+				"down": {"uv": [3, 0, 13, 8], "texture": "#24"}
+			}
+		},
+		{
+			"from": [3.7, 4, 8.7],
+			"to": [13.7, 9, 8.7],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 10, 8]},
+			"faces": {
+				"north": {"uv": [3, 11, 13, 16], "texture": "#22"},
+				"east": {"uv": [3, 11, 3, 16], "texture": "#22"},
+				"south": {"uv": [3, 11, 13, 16], "texture": "#22"},
+				"west": {"uv": [3, 11, 3, 16], "texture": "#22"},
+				"up": {"uv": [0, 0, 10, 0], "texture": "#22"},
+				"down": {"uv": [0, 0, 10, 0], "texture": "#22"}
+			}
+		},
+		{
+			"from": [8.7, 4, 3.7],
+			"to": [8.7, 9, 13.7],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 10, 8]},
+			"faces": {
+				"north": {"uv": [3, 11, 3, 16], "texture": "#22"},
+				"east": {"uv": [3, 11, 13, 16], "texture": "#22"},
+				"south": {"uv": [3, 11, 3, 16], "texture": "#22"},
+				"west": {"uv": [3, 11, 13, 16], "texture": "#22"},
+				"up": {"uv": [0, 0, 0, 10], "texture": "#22"},
+				"down": {"uv": [0, 0, 0, 10], "texture": "#22"}
+			}
+		}
+	]
+}

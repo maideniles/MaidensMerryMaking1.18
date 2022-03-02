@@ -1,0 +1,40 @@
+
+
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "LC"
+		
+		
+		
+    ],
+    
+    "key":
+    {
+       
+		
+		"L":
+		{
+			
+			"item": "minecraft:spruce_leaves"
+		},
+		
+		"C":
+		{
+			
+			"item": "maidensmerrymaking:mini_lights_white"
+		}
+		
+		
+		
+		
+    },
+    
+    "result":
+    {
+        "item": "maidensmerrymaking:spruce_leaves_lights_white",
+        "count": 4
+    }
+}
