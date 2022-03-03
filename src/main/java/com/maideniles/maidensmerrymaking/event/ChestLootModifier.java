@@ -34,8 +34,8 @@ public class ChestLootModifier extends LootModifier {
     protected List<ItemStack> doApply(List<ItemStack> generatedLoot, LootContext context) {
         // generatedLoot is the loot that would be dropped, if we wouldn't add or replace
         // anything!
-        if(context.getRandom().nextInt() < Config.CHRISTMAS_PRESENT_CHEST_CHANCE.get()) {
-            generatedLoot.add(new ItemStack(addition, 1));
+        if(context.getRandom().nextFloat() > 0.15) {
+            generatedLoot.add(new ItemStack(addition, Config.CHRISTMAS_PRESENT_CHEST_SPAWN.get()));
         }
         return generatedLoot;
     }

@@ -9,7 +9,7 @@ import java.io.File;
 public class Config {
     public static ForgeConfigSpec SERVER_CONFIG;
     public static ForgeConfigSpec CLIENT_CONFIG;
-    public static ForgeConfigSpec.IntValue CHRISTMAS_PRESENT_CHEST_CHANCE;
+    public static ForgeConfigSpec.IntValue CHRISTMAS_PRESENT_CHEST_SPAWN;
 
 
 static {
@@ -25,8 +25,8 @@ CLIENT_CONFIG= CLIENT_BUILDER.build();
 
     private static void presentChestChance(ForgeConfigSpec.Builder SERVER_BUILDER, ForgeConfigSpec.Builder CLIENT_BUILDER) {
         {
-            CHRISTMAS_PRESENT_CHEST_CHANCE = CLIENT_BUILDER.comment("Chance for presents to spawn in chests. Set to 0.0 to disable")
-                    .defineInRange("christmas_present_chest_chance", 100, 0, Integer.MAX_VALUE);
+            CHRISTMAS_PRESENT_CHEST_SPAWN = CLIENT_BUILDER.comment("Christmas presents can spawn in chests. Set to 0 to disable")
+                    .defineInRange("christmas_present_chest_spawn", 1, 0, Integer.MAX_VALUE);
         }
 
 }
