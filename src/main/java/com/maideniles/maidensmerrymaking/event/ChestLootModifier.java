@@ -3,6 +3,7 @@ package com.maideniles.maidensmerrymaking.event;
 
 import com.google.gson.JsonObject;
 import com.maideniles.maidensmerrymaking.MaidensMerryMaking;
+import com.maideniles.maidensmerrymaking.util.Config;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.util.GsonHelper;
 import net.minecraft.world.item.Item;
@@ -33,7 +34,7 @@ public class ChestLootModifier extends LootModifier {
     protected List<ItemStack> doApply(List<ItemStack> generatedLoot, LootContext context) {
         // generatedLoot is the loot that would be dropped, if we wouldn't add or replace
         // anything!
-        if(context.getRandom().nextFloat() > 0.15) {
+        if(context.getRandom().nextInt() < Config.CHRISTMAS_PRESENT_CHEST_CHANCE.get()) {
             generatedLoot.add(new ItemStack(addition, 1));
         }
         return generatedLoot;
